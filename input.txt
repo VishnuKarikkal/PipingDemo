@@ -1,0 +1,4 @@
+This is just a dummy text file.
+It has nothinng to do with the codes.
+It is just for demonstrating the streams or piping in nodejs.
+Thank You😀😊!
